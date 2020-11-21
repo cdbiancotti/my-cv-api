@@ -25,9 +25,9 @@ def cv():
         "residencia": "Argentina",
         "experiencia": [{
             "posicion": "< describe tu posición>",
-            "empresa": "< nombre de tu empresa >",
-            "desde": "< cuándo empezaste a trabajar >",
-            "hasta": "< si ya no trabajas más, cuándo >",
+            "empresa": "Movizen",
+            "desde": "Enero 2020",
+            "hasta": "Actualidad",
             "descripcion": "< detalles >"
         }],
         "educación": {
@@ -36,7 +36,7 @@ def cv():
             "institucion": "< dónde estudiaste >",
             "facultad": "< más detalles >"
         },
-        "intereses": ["python", "apis", "enseñar"],
+        "intereses": ["python", "apis", "juegos"],
         "redes": {
             "github": "https://github.com/cdbiancotti",
             "twitter": "https://twitter.com/cdbiancotti",
