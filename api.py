@@ -18,7 +18,7 @@ def index():
 
 @app.route('/curriculum', methods=['GET'])
 def cv():
-    url_imagen = request.host_url + "static/api_test_img.jpg"
+    url_imagen = request.host_url + "static/api_test_img.jpeg"
     cv = {
         "nombre": "Cristian Daniel",
         "apellido": "Biancotti",
